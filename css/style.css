@@ -1,0 +1,14 @@
+div {
+color:chocolate;
+}
+body {
+    background-color:rgb(247, 232, 214) ;
+}
+.text,
+.text-img,
+.text-link{
+    color:green;
+}
+.text p{
+    color:brown;
+}
